@@ -1,0 +1,8 @@
+stellargraph
+gensim
+networkx==2.3
+scikit-learn
+pandas
+numpy
+matplotlib
+tensorflow
